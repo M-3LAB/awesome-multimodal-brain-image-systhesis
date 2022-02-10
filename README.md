@@ -6,18 +6,18 @@ We provide a list of awesome papers in medical multimodel brain image systhesis.
 # Overview
 
 + [Review](#review)
-+ Supervised
-+ Semi-supervised
-+ Unsupervised
-+ Others
++ [Supervised](#supervised)
++ [Semi-supervised](#semi-supervised)
++ [Unsupervised](#unsupervised)
++ [Others](#others)
 
 
-# <span id='review'>Review </span>
+# <span id='review'> Review </span>
 
-# Supervised
+# <span id='supervised'> Supervised </span>
 
-# Semi-supervised
+# <span id='semi-supervised'> Semi-supervised </span>
 
-# Unsupervised
+# <span id='unsupervised'> Unsupervised </span>
 
-# Others
+# <span id='others'> Others </span>
