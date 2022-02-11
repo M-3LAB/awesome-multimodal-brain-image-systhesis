@@ -77,7 +77,7 @@ If you have questions, contact me!
 + Cross-Modality Image Synthesis via Weakly Coupled and Geometry Co-Regularized Joint Dictionary Learning [[TMI, 2018]](https://ieeexplore.ieee.org/document/8169118)
 + Locality Adaptive Multi-modality GANs for High-Quality PET Image Synthesis [[MICCAI, 2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_38)
 
-+ Simultaneous Super-Resolution and Cross-Modality Synthesis of 3D Medical Images Using Weakly-Supervised Joint Convolutional Sparse Coding [[CVPR, 2017]]()https://ieeexplore.ieee.org/document/8100096
++ Simultaneous Super-Resolution and Cross-Modality Synthesis of 3D Medical Images Using Weakly-Supervised Joint Convolutional Sparse Coding [[CVPR, 2017]](https://ieeexplore.ieee.org/document/8100096)
 
 
 
