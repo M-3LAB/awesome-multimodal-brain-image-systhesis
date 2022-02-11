@@ -24,9 +24,9 @@ If you have questions, contact me! [linkingring@163.com](https://scholar.google.
 # <span id='supervised'> Supervised </span>
 
 + Bidirectional Mapping Generative Adversarial Networks for Brain MR to PET Synthesis [[TMI, 2022]](https://ieeexplore.ieee.org/document/9521163)
++ Assessing clinical progression from subjective cognitive decline to mild cognitive impairment with incomplete multi-modal neuroimages [[MedIA, 2022]](https://www.sciencedirect.com/science/article/pii/S136184152100311X)
 
 + mustGAN: multi-stream Generative Adversarial Networks for MR Image Synthesis [[MedIA, 2021]](https://www.sciencedirect.com/science/article/pii/S136184152030308X)
-+ Assessing clinical progression from subjective cognitive decline to mild cognitive impairment with incomplete multi-modal neuroimages [[MedIA, 2022]](https://www.sciencedirect.com/science/article/pii/S136184152100311X)
 + Imitation learning for improved 3D PET/MR attenuation correction [[MedIA, 2021]](https://www.sciencedirect.com/science/article/pii/S1361841521001250?via%3Dihub)
 + ABCnet: Adversarial bias correction network for infant brain MR images [[MedIA, 2021]](https://www.sciencedirect.com/science/article/pii/S1361841521001791)
 + Learning to synthesise the ageing brain without longitudinal data [[MedIA, 2021]](https://www.sciencedirect.com/science/article/pii/S1361841521002152)
