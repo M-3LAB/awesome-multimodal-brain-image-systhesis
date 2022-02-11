@@ -2,7 +2,7 @@
 
 We provide a list of awesome papers in medical multimodel brain image systhesis.
 
-If you have questions, contact me!
+If you have questions, contact me! [linkingring@163.com](https://scholar.google.com/citations?hl=en&user=qI80ipUAAAAJ&view_op=list_works&alert_preview_top_rm=2&gmla=AJsN-F6lNbeBtlxu4BVhiy0be17RJo_nkYXuWkZulyQsJmF2cEWVpaFGX6MGh8F_Q5sxtYMeoCdtkGlDHwzhQ62A8AnXiPpy9zGj16BTDIoTm0Vunuz4PKw 'jinbao-wang')
 
 # Overview
 
