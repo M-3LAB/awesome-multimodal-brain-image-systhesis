@@ -128,7 +128,6 @@ If you have questions, contact me! [linkingring@163.com](https://scholar.google.
 [comment]: <> (bian2022dda)
 + DDA-Net: Unsupervised cross-modality medical image segmentation via dual domain adaptation[[CMPB, 2013]](https://www.sciencedirect.com/science/article/pii/S0169260721006052)
 
-# 2. MRI - CT
 # <span id='mri-ct'> MRI -> CT </span>
 
 > Supervised
@@ -201,7 +200,7 @@ If you have questions, contact me! [linkingring@163.com](https://scholar.google.
 > Unsupervised
 
 [comment]: <> (kao2021demystifying)
-+ Demystifying T1-MRI to FDG$^{18}$ -PET Image Translation via Representational Similarity[[MICCAI, 2021]](https://people.cs.nctu.edu.tw/~walon/publications/kao2021miccai.pdf)
++ Demystifying T1-MRI to FDG18 -PET Image Translation via Representational Similarity[[MICCAI, 2021]](https://people.cs.nctu.edu.tw/~walon/publications/kao2021miccai.pdf)
 
 
 
