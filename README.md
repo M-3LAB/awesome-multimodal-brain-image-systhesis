@@ -17,8 +17,8 @@ If you have questions, contact me! [linkingring@163.com](https://scholar.google.
 
 # <span id='review'> Review </span>
 
-+ Deep learning of brain magnetic resonance images: A brief review [[Methods, 2021]](https://www.sciencedirect.com/science/article/pii/S1046202320302024)
-+ Generative adversarial network in medical imaging: A review [[MedIA, 2019]](https://www.sciencedirect.com/science/article/pii/S1361841518308430)
++ Deep learning of brain magnetic resonance images: A brief review[[Methods, 2021]](https://www.sciencedirect.com/science/article/pii/S1046202320302024)
++ Generative adversarial network in medical imaging: A review[[MedIA, 2019]](https://www.sciencedirect.com/science/article/pii/S1361841518308430)
 
 
 # <span id='mri-mri'> MRI -> MRI </span>
