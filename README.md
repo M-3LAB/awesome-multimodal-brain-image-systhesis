@@ -40,7 +40,7 @@ If you have questions, contact me! [linkingring@163.com](https://scholar.google.
 + mustGAN: Multi-Stream Generative Adversarial Networks for MR Image Synthesis [[MedIA, 2021]](http://repository.bilkent.edu.tr/bitstream/11693/77499/1/mustGAN_multi-stream_Generative_Adversarial_Networks_for_MR_Image_Synthesis.pdf)
 
 [comment]: <> (Zuo2021DMCFusionDM)
-+ DMC-Fusion: Deep Multi-Cascade Fusion With Classifier-Based Feature Synthesis for Medical Multi-Modal Images [[JBHI,2021]](https://ieeexplore.ieee.org/document/9442289)
++ DMC-Fusion: Deep Multi-Cascade Fusion With Classifier-Based Feature Synthesis for Medical Multi-Modal Images [[JBHI, 2021]](https://ieeexplore.ieee.org/document/9442289)
 
 [comment]: <> (Huang2020MCMTGANMC)
 + MCMT-GAN: Multi-Task Coherent Modality Transferable GAN for 3D Brain Image Synthesis [[TIP, 2020]](https://ieeexplore.ieee.org/document/9152126)
